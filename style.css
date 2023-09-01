@@ -775,3 +775,9 @@ p{
   .tab-contents h1{
     font-weight: 300;
   }
+  .col .btn{
+    display: block;
+    margin-top: 10px;
+    font-weight: 400;
+
+  }
