@@ -651,6 +651,7 @@ strong {
 }
 p{
   color: #000;
+  font-weight: 600;
   justify-content: center;
   align-items: center;
   font-size: 17px;
@@ -761,4 +762,16 @@ p{
     font-weight: 700;
     color: #000;
   }
-  
+  .categories_left p{
+    font-weight: 700;
+  }
+  #about {
+    background-color: #e3e3e3;
+  }
+  .about-col-2 h1 {
+    color: #000;
+    font-weight: 700;
+  }
+  .tab-contents h1{
+    font-weight: 300;
+  }
